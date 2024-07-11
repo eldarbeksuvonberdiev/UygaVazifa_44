@@ -5,8 +5,8 @@ for i in  range(lim):
 	ismi = input("Ismini kiriting: ")
 	ismlar.append(ismi)
 	mydict[ismi] = int(input("1 yoki 0 kiriting: "))
-sanoq1 = 0
-sanoq2 = 0
+
+sanoq1,sanoq2 = 0,0
 
 for ism in ismlar:
 	if mydict.get(ism) == 1:
