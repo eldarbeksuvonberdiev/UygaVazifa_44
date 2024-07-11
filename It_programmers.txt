@@ -1,0 +1,11 @@
+Elbek Middle 500 60 1-bo'lim 
+Anvar Junior 150 30 2-bo'lim 
+Asad Senior 900 300 3-bo'lim 
+Said Middle 450 80 2-bo'lim 
+Alimardon Junior 390 45 3-bo'lim 
+Elbek Middle 500 60 1-bo'lim 
+Anvar Junior 150 30 2-bo'lim 
+Asad Senior 900 300 3-bo'lim 
+Elbek Middle 500 60 1-bo'lim 
+Anvar Junior 150 30 2-bo'lim 
+Asad Senior 900 300 3-bo'lim 
